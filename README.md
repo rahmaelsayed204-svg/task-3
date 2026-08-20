@@ -1,0 +1,2 @@
+# trying
+learning about git
